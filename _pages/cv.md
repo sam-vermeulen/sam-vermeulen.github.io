@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Undergraduate Research Assistant, Summer 2022
-  * *University of Guelph*
+  * *University of Guelph, Department of Animal Biosciences*
   * Supervisor: Dr. Grégoy Bédécarrats
 
 * Laboratory Technician, Summer 2020 & 2021
