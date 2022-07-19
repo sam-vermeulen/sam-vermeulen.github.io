@@ -11,13 +11,17 @@ redirect_from:
 
 Education
 ======
-* Honours B. Sc in Mathematical Science, University of Guelph, 2022
+* Honours B. Sc in Mathematical Science, 2022
+  * *University of Guelph*
+  * Area of Emphasis: Computer Science
 
 Work experience
 ======
-* Summer 2022: Research Assistant
-  * University of Guelph
-  * Supervisor: Professor Gregoy Bedecarrats
+* Undergraduate Research Assistant, Summer 2022
+  * *University of Guelph*
+  * Supervisor: Dr. Grégoy Bédécarrats
 
-* Summer 2020, 2021: Laboratory Technician
-  * Chapman's Icecream
+* Laboratory Technician, Summer 2020 & 2021
+  * *Chapman's Icecream*
+
+ 
